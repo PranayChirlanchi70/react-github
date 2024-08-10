@@ -1,0 +1,58 @@
+
+.card{
+
+  width: 360px;
+  height: 500px;
+  border: 1px solid rgba(198, 198, 198, 0.699);
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
+
+#logo{
+  width: 200px;
+}
+
+.inputs-div{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.input{
+  width: 280px;
+  padding: 12px ;
+  margin-bottom: 5px;
+  border: 1px solid rgba(198, 198, 198, 0.699);
+  background: #a2a1a113;
+  text-align: left;
+  border-radius: 5px;
+}
+
+#btn{
+  background-color: rgba(28, 156, 199, 0.895);
+  border-radius: 10px;
+  margin-top: 15px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+}
+
+#footer-text{
+  margin-top: 30px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+#highlight-text{
+  color: rgba(39, 144, 180, 0.895);
+  font-weight: 900;
+  cursor: pointer;
+
+}

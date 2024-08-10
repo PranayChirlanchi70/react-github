@@ -1,0 +1,38 @@
+.counter{
+    margin-top: 200px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: #eb4141;
+    border-radius: 5%;
+    color: #fff;
+}
+
+.count{
+    margin-top: 80px;
+}
+#buttons{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.btn{
+    color: #000;
+    padding: 10px 22px;
+    background-color: rgb(183, 160, 160);
+    border: 1px solid black;
+    border-radius: 50px;
+    font-weight: 800;
+    
+
+}
+
