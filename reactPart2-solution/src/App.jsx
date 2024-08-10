@@ -1,8 +1,8 @@
 // import { useState } from "react";
 
 import "./App.css";
-import Login from "./LogIn/Login";
-import Counter from "./Counter/Counter";
+// import Login from "./LogIn/Login";
+import Counter from "./Counter/Counter.jsx";
 
 function App() {
   
@@ -11,8 +11,8 @@ function App() {
 
   return (
     <>
-    <Login />
-    {/* <Counter /> */}
+    {/* <Login /> */}
+    <Counter />
     </>
   );
 }
